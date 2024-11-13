@@ -19,3 +19,5 @@ cd heroes-spa
 
 # Install dependencies
 yarn install
+
+MIT © [Hugo Espejo](https://github.com/Hugo2-2)
